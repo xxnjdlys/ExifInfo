@@ -1,0 +1,28 @@
+{
+  "FILE": {
+    "FileName": "landscape_1.jpg",
+    "FileDateTime": 1614849877,
+    "FileSize": 139435,
+    "FileType": 2,
+    "MimeType": "image\/jpeg",
+    "SectionsFound": "ANY_TAG, IFD0, APP12"
+  },
+  "COMPUTED": {
+    "html": "width=\"600\" height=\"450\"",
+    "Height": 450,
+    "Width": 600,
+    "IsColor": 1,
+    "ByteOrderMotorola": 0
+  },
+  "IFD0": {
+    "Orientation": 1,
+    "XResolution": "72\/1",
+    "YResolution": "72\/1",
+    "ResolutionUnit": 2,
+    "YCbCrPositioning": 1
+  },
+  "APP12": {
+    "Company": "Ducky",
+    "Info": "\u0001"
+  }
+}
