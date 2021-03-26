@@ -1,28 +1,108 @@
 {
   "FILE": {
-    "FileName": "landscape_1.jpg",
-    "FileDateTime": 1614849877,
-    "FileSize": 139435,
+    "FileName": "DSCN0042.jpg",
+    "FileDateTime": 1614849876,
+    "FileSize": 156695,
     "FileType": 2,
     "MimeType": "image\/jpeg",
-    "SectionsFound": "ANY_TAG, IFD0, APP12"
+    "SectionsFound": "ANY_TAG, IFD0, THUMBNAIL, EXIF, GPS, INTEROP, MAKERNOTE"
   },
   "COMPUTED": {
-    "html": "width=\"600\" height=\"450\"",
-    "Height": 450,
-    "Width": 600,
+    "html": "width=\"640\" height=\"480\"",
+    "Height": 480,
+    "Width": 640,
     "IsColor": 1,
-    "ByteOrderMotorola": 0
+    "ByteOrderMotorola": 0,
+    "ApertureFNumber": "f\/4.4",
+    "UserComment": "                                                                                                                     ",
+    "UserCommentEncoding": "ASCII",
+    "Thumbnail.FileType": 2,
+    "Thumbnail.MimeType": "image\/jpeg"
   },
   "IFD0": {
+    "ImageDescription": "                               ",
+    "Make": "NIKON",
+    "Model": "COOLPIX P6000",
     "Orientation": 1,
+    "XResolution": "300\/1",
+    "YResolution": "300\/1",
+    "ResolutionUnit": 2,
+    "Software": "Nikon Transfer 1.1 W",
+    "DateTime": "2008:11:01 21:15:11",
+    "YCbCrPositioning": 1,
+    "Exif_IFD_Pointer": 268,
+    "GPS_IFD_Pointer": 926
+  },
+  "THUMBNAIL": {
+    "Compression": 6,
     "XResolution": "72\/1",
     "YResolution": "72\/1",
     "ResolutionUnit": 2,
-    "YCbCrPositioning": 1
+    "JPEGInterchangeFormat": 4548,
+    "JPEGInterchangeFormatLength": 6474
   },
-  "APP12": {
-    "Company": "Ducky",
-    "Info": "\u0001"
+  "EXIF": {
+    "ExposureTime": "1\/100",
+    "FNumber": "44\/10",
+    "ExposureProgram": 2,
+    "ISOSpeedRatings": 64,
+    "ExifVersion": "0220",
+    "DateTimeOriginal": "2008:10:22 17:00:07",
+    "DateTimeDigitized": "2008:10:22 17:00:07",
+    "ComponentsConfiguration": "\u0001\u0002\u0003\u0000",
+    "ExposureBiasValue": "0\/10",
+    "MaxApertureValue": "29\/10",
+    "MeteringMode": 5,
+    "LightSource": 0,
+    "Flash": 16,
+    "FocalLength": "15\/1",
+    "MakerNote": "Nikon",
+    "UserComment": "ASCII\u0000\u0000\u0000                                                                                                                     \u0000",
+    "FlashPixVersion": "0100",
+    "ColorSpace": 1,
+    "ExifImageWidth": 640,
+    "ExifImageLength": 480,
+    "InteroperabilityOffset": 896,
+    "FileSource": "\u0003",
+    "SceneType": "\u0001",
+    "CustomRendered": 0,
+    "ExposureMode": 0,
+    "WhiteBalance": 0,
+    "DigitalZoomRatio": "0\/100",
+    "FocalLengthIn35mmFilm": 70,
+    "SceneCaptureType": 0,
+    "GainControl": 0,
+    "Contrast": 0,
+    "Saturation": 0,
+    "Sharpness": 0,
+    "SubjectDistanceRange": 0
+  },
+  "GPS": {
+    "GPSLatitudeRef": "N",
+    "GPSLatitude": [
+      "43\/1",
+      "27\/1",
+      "520380000\/10000000"
+    ],
+    "GPSLongitudeRef": "E",
+    "GPSLongitude": [
+      "11\/1",
+      "52\/1",
+      "53322\/1000"
+    ],
+    "GPSAltitudeRef": "\u0000",
+    "GPSTimeStamp": [
+      "14\/1",
+      "57\/1",
+      "4137\/100"
+    ],
+    "GPSSatellites": "04",
+    "GPSImgDirectionRef": null,
+    "GPSMapDatum": "WGS-84   ",
+    "GPSDateStamp": "2008:10:23"
+  },
+  "INTEROP": {
+    "InterOperabilityIndex": "R98",
+    "InterOperabilityVersion": "0100"
   }
 }

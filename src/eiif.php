@@ -16,7 +16,7 @@ function printCameraPicInfo($imagePath): string
     }
 }
 
-//$img_path = "./img/jpg/gps/DSCN0010.jpg";
+$img_path = "./img/jpg/gps/DSCN0042.jpg";
 //$img_path = "./img/jpg/hdr/canon_hdr_YES.jpg";
 //$img_path = "./img/jpg/hdr/iphone_hdr_no.jpg";
 //$img_path = "./img/jpg/mobile/jolla.jpg";
@@ -25,7 +25,7 @@ function printCameraPicInfo($imagePath): string
 //$img_path = "./img/jpg/Fujifilm_FinePix6900ZOOM.jpg";
 //$img_path = "./img/jpg/xmp/no_exif.jpg";
 //$img_path = "./img/jpg/xmp/BlueSquare.jpg";
-$img_path = "./img/jpg/orientation/landscape_1.jpg";
+//$img_path = "./img/jpg/orientation/landscape_1.jpg";
 
 $result = printCameraPicInfo($img_path);
 
